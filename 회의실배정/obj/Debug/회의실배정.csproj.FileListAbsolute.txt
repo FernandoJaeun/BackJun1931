@@ -1,0 +1,6 @@
+C:\Users\SOM\source\repos\회의실배정\회의실배정\bin\Debug\회의실배정.exe.config
+C:\Users\SOM\source\repos\회의실배정\회의실배정\bin\Debug\회의실배정.exe
+C:\Users\SOM\source\repos\회의실배정\회의실배정\bin\Debug\회의실배정.pdb
+C:\Users\SOM\source\repos\회의실배정\회의실배정\obj\Debug\회의실배정.csprojAssemblyReference.cache
+C:\Users\SOM\source\repos\회의실배정\회의실배정\obj\Debug\회의실배정.exe
+C:\Users\SOM\source\repos\회의실배정\회의실배정\obj\Debug\회의실배정.pdb

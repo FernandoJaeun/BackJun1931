@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "회의실배정", "회의실배정\회의실배정.csproj", "{C294CC9B-2D0F-43C2-9603-C54CA94E3C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C294CC9B-2D0F-43C2-9603-C54CA94E3C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C294CC9B-2D0F-43C2-9603-C54CA94E3C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C294CC9B-2D0F-43C2-9603-C54CA94E3C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C294CC9B-2D0F-43C2-9603-C54CA94E3C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12C4559D-2987-4A22-AEC5-419DD66D39E6}
+	EndGlobalSection
+EndGlobal
